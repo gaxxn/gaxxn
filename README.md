@@ -19,14 +19,14 @@ TikTok no funciona con un algoritmo estático ni mediante simples filtros por ca
 
 Para leer la imagen sin complicarse, solo sigue el código de colores:
 
-* **Bloques azules:** Son tus datos. El azul oscuro guarda lo que has visto antes; el azul claro atrapa lo que haces justo en este segundo.
+* **Bloques azules** Son tus datos. El azul oscuro guarda lo que has visto antes; el azul claro atrapa lo que haces justo en este segundo.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_(Batch_Training)-3b82f6?style=for-the-badge&labelColor=1d4ed8" />
   <img src="https://img.shields.io/badge/Data_(Online_Training)-60a5fa?style=for-the-badge&labelColor=2563eb" />
 </p>
 
-* **Bloques verdes:** Son las máquinas de ByteDance procesando la información y ajustando lo que te gusta en tiempo real.
+* **Bloques verdes** Son las máquinas de ByteDance procesando la información y ajustando lo que te gusta en tiempo real.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Training_Worker-10b981?style=for-the-badge" />
@@ -35,13 +35,13 @@ Para leer la imagen sin complicarse, solo sigue el código de colores:
   <img src="https://img.shields.io/badge/Model_Server-10b981?style=for-the-badge" />
 </p>
 
-* **Bloque amarillo:** Eres tú con el teléfono en la mano.
+* **Bloque amarillo** Eres tú con el teléfono en la mano.
 
 <p align="center">
   <img src="https://img.shields.io/badge/User-f59e0b?style=for-the-badge" />
 </p>
 
-* **Líneas amarillas:** Es el viaje de ida y vuelta. Cada que mueves un dedo, tu teléfono manda una señal y la app te devuelve al instante los siguientes videos.
+* **Líneas amarillas** Es el viaje de ida y vuelta. Cada que mueves un dedo, tu teléfono manda una señal y la app te devuelve al instante los siguientes videos.
 
 <p align="center">
   <img src="https://img.shields.io/badge/User_Request_%E2%9E%94-f59e0b?style=flat-square" />
