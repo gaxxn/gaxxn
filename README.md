@@ -21,9 +21,10 @@ Si te fijas en la parte superior del diagrama, cada color representa una pieza c
 
 ### ¿Cómo entender el esquema usando los colores?
 
-Si te fijas en la parte superior del gráfico, cada color te guía para saber qué hace cada parte:
+Para leer la imagen sin complicarse, solo sigue el código de colores:
 
-* **Bloques Azules (Los Datos)** Representan la información pura. El azul oscuro reúne tu historial antiguo y el azul claro captura lo que haces en vivo segundo a segundo.
-* **Bloques Verdes (El Cerebro / Los Servidores)** Son los ordenadores que procesan la inteligencia artificial. Se encargan de calcular tus gustos y guardar las actualizaciones de tu perfil al instante.
-* **Bloque Amarillo (Tu Pantalla)** Representa tu teléfono celular usando la aplicación.
-* **Líneas Amarillas (Tus Acciones)** Muestran el camino que recorre tu información. Cada vez que deslizas la pantalla o interactúas, envías una señal que el sistema procesa para devolverte de inmediato una nueva lista de videos calculada solo para ti.
+* **Bloques azules:** Son tus datos. El azul oscuro guarda lo que has visto antes; el azul claro atrapa lo que haces justo en este segundo.
+* **Bloques verdes:** Son las máquinas de ByteDance procesando la información y ajustando lo que te gusta en tiempo real.
+* **Bloque amarillo:** Eres tú con el teléfono en la mano.
+* **Líneas amarillas:** Es el viaje de ida y vuelta. Cada que mueves un dedo, tu teléfono manda una señal y la app te devuelve al instante los siguientes videos.
+  
