@@ -15,10 +15,6 @@ TikTok no funciona con un algoritmo estático ni mediante simples filtros por ca
 <img width="1200" height="734" alt="540" src="https://github.com/user-attachments/assets/9ab87b10-5bf1-4621-a9ff-a6bfac9a55da" />
 
 ---
-### Arquitectura de Monolith: ¿Cómo procesa los datos?
-
-Si te fijas en la parte superior del diagrama, cada color representa una pieza clave del sistema
-
 ### ¿Cómo entender el esquema usando los colores?
 
 Para leer la imagen sin complicarse, solo sigue el código de colores:
@@ -26,31 +22,30 @@ Para leer la imagen sin complicarse, solo sigue el código de colores:
 * **Bloques azules:** Son tus datos. El azul oscuro guarda lo que has visto antes; el azul claro atrapa lo que haces justo en este segundo.
 
 <p align="center">
-  <span style="background-color: #d0e1f9; color: #1e3a8a; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px; margin-right: 4px;">Data (Batch Training)</span>
-  <span style="background-color: #d0e1f9; color: #1e3a8a; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px;">Data (Online Training)</span>
+  <img src="https://img.shields.io/badge/Data_(Batch_Training)-3b82f6?style=for-the-badge&labelColor=1d4ed8" />
+  <img src="https://img.shields.io/badge/Data_(Online_Training)-60a5fa?style=for-the-badge&labelColor=2563eb" />
 </p>
 
 * **Bloques verdes:** Son las máquinas de ByteDance procesando la información y ajustando lo que te gusta en tiempo real.
 
 <p align="center">
-  <span style="background-color: #d1fae5; color: #065f46; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 11px; margin-right: 2px;">Training Worker</span>
-  <span style="background-color: #d1fae5; color: #065f46; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 11px; margin-right: 2px;">Training PS</span>
-  <span style="background-color: #d1fae5; color: #065f46; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 11px; margin-right: 2px;">Serving PS</span>
-  <span style="background-color: #d1fae5; color: #065f46; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 11px;">Model Server</span>
+  <img src="https://img.shields.io/badge/Training_Worker-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Training_PS-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Serving_PS-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model_Server-10b981?style=for-the-badge" />
 </p>
 
 * **Bloque amarillo:** Eres tú con el teléfono en la mano.
 
 <p align="center">
-  <span style="background-color: #fef3c7; color: #92400e; padding: 4px 12px; border-radius: 6px; font-weight: bold; font-size: 12px;">User</span>
+  <img src="https://img.shields.io/badge/User-f59e0b?style=for-the-badge" />
 </p>
 
 * **Líneas amarillas:** Es el viaje de ida y vuelta. Cada que mueves un dedo, tu teléfono manda una señal y la app te devuelve al instante los siguientes videos.
 
 <p align="center">
-  <span style="background-color: #fef3c7; color: #92400e; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 11px;">User Request ➔</span>
-  &nbsp;
-  <span style="background-color: #d1fae5; color: #065f46; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 11px;">&#8592; Ranking Result</span>
-  &nbsp;
-  <span style="background-color: #fef3c7; color: #92400e; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 11px;">User Actions ➔</span>
+  <img src="https://img.shields.io/badge/User_Request_%E2%9E%94-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E2%86%90_Ranking_Result-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/User_Actions_%E2%9E%94-f59e0b?style=flat-square" />
 </p>
+
