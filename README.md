@@ -23,7 +23,7 @@ Si te fijas en la parte superior del diagrama, cada color representa una pieza c
 
 Si te fijas en la parte superior del gráfico, cada color te guía para saber qué hace cada parte:
 
-* **Bloques Azules (Los Datos):** Representan la información pura. El azul oscuro reúne tu historial antiguo y el azul claro captura lo que haces en vivo segundo a segundo.
-* **Bloques Verdes (El Cerebro / Los Servidores):** Son los ordenadores que procesan la inteligencia artificial. Se encargan de calcular tus gustos y guardar las actualizaciones de tu perfil al instante.
-* **Bloque Amarillo (Tu Pantalla):** Representa tu teléfono celular usando la aplicación.
-* **Líneas Amarillas (Tus Acciones):** Muestran el camino que recorre tu información. Cada vez que deslizas la pantalla o interactúas, envías una señal que el sistema procesa para devolverte de inmediato una nueva lista de videos calculada solo para ti.
+* **Bloques Azules (Los Datos)** Representan la información pura. El azul oscuro reúne tu historial antiguo y el azul claro captura lo que haces en vivo segundo a segundo.
+* **Bloques Verdes (El Cerebro / Los Servidores)** Son los ordenadores que procesan la inteligencia artificial. Se encargan de calcular tus gustos y guardar las actualizaciones de tu perfil al instante.
+* **Bloque Amarillo (Tu Pantalla)** Representa tu teléfono celular usando la aplicación.
+* **Líneas Amarillas (Tus Acciones)** Muestran el camino que recorre tu información. Cada vez que deslizas la pantalla o interactúas, envías una señal que el sistema procesa para devolverte de inmediato una nueva lista de videos calculada solo para ti.
