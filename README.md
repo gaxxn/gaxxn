@@ -10,3 +10,6 @@ Esto forma parte de un proyecto a inicios del 2024 en el cual desmenuzaré y exp
 ---
 TikTok no funciona con un algoritmo estático ni mediante simples filtros por categorías. La plataforma utiliza un motor de inteligencia artificial de aprendizaje profundo llamado **Monolith**, diseñado para analizar, procesar y aprender de tu comportamiento en tiempo real a medida que interactúas con la aplicación.
 
+# cada like, cada que cambias de video, cada comentario es aprendido por Monolith
+
+<img width="1200" height="734" alt="540" src="https://github.com/user-attachments/assets/9ab87b10-5bf1-4621-a9ff-a6bfac9a55da" />
