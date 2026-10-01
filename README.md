@@ -4,4 +4,5 @@
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 
-es una colección de scripts en Python nativo, basicamente son scripts que automatizan el sistema operativo de Windows 10 y 11 usando módulos de pathlib
+Colección de scripts en Python nativo para la automatización de tareas de sistemas operativos (Windows 10/11), utilizando la biblioteca estándar y módulos como `pathlib`.
+
